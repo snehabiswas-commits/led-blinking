@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "C:/iot intern"
+		},
+		{
+			"name": "esp32_test",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
